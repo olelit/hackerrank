@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleTest", "simpleTest\si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMath", "SalesByMath\SalesByMath.csproj", "{6656E686-6226-4CA4-B0D9-32D0F7A3837C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArrays", "2DArrays\2DArrays.csproj", "{7DFCC78D-33D5-410A-AC9A-2A8DAC69428B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLeftRotation", "ArraysLeftRotation\ArraysLeftRotation.csproj", "{A6F2485A-7D1E-4897-8C65-BBE2CAC96650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{6656E686-6226-4CA4-B0D9-32D0F7A3837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6656E686-6226-4CA4-B0D9-32D0F7A3837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6656E686-6226-4CA4-B0D9-32D0F7A3837C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFCC78D-33D5-410A-AC9A-2A8DAC69428B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFCC78D-33D5-410A-AC9A-2A8DAC69428B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFCC78D-33D5-410A-AC9A-2A8DAC69428B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFCC78D-33D5-410A-AC9A-2A8DAC69428B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F2485A-7D1E-4897-8C65-BBE2CAC96650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F2485A-7D1E-4897-8C65-BBE2CAC96650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F2485A-7D1E-4897-8C65-BBE2CAC96650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F2485A-7D1E-4897-8C65-BBE2CAC96650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
